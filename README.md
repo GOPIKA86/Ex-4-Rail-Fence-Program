@@ -95,6 +95,9 @@ int main() {
 # OUTPUT
 <img width="1433" height="903" alt="image" src="https://github.com/user-attachments/assets/4f07a00d-ade4-40f2-855b-db37ee92e1e7" />
 
+
+
+
 # RESULT
 
 Thus the program to implement the rail fence transposition technique has been executed successfully.
